@@ -1,1 +1,3 @@
-
+Switched from the using voltage comparators and voltage divider circuits to using only
+3 LEDs and 3 resistors, because so to reduce number of resistors  
+used and the overall space the LED subsystem was using.
