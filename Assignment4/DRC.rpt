@@ -1,0 +1,14 @@
+** Drc report for C:\Users\brend\OneDrive\Documents\3088\Project3088\Project3088.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 2 unconnected pads **
+ErrType(2): Unconnected items
+    @(146,222 mm, 95,838 mm): Pad 17 of J1 on All copper layers
+    @(125,902 mm, 95,838 mm): Pad 1 of J1 on All copper layers
+ErrType(2): Unconnected items
+    @(127,382 mm, 102,188 mm): Track 0,250 mm [GND] on B.Cu, length: 3,161 mm
+    @(127,382 mm, 102,018 mm): Pad 2 of U2 on F.Cu and others
+
+** End of Report **
